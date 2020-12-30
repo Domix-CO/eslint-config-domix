@@ -1,8 +1,12 @@
 {
   "name": "eslint-config-domix",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Domix's eslint config",
   "main": "index.js",
+  "keywords": [
+    "ESLint",
+    "Domix"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Domix-CO/eslint-config-domix.git"
