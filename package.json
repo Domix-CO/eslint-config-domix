@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-domix",
+  "version": "0.0.1",
+  "description": "Domix's eslint config",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Domix-CO/eslint-config-domix.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Domix-CO/eslint-config-domix/issues"
+  },
+  "peerDependencies": {
+    "eslint": "7.x",
+    "prettier": "2.x",
+    "prettier-eslint": "12.x",
+    "eslint-plugin-prettier": "3.x",
+    "eslint-plugin-import": "2.x"
+  },
+  "homepage": "https://github.com/Domix-CO/eslint-config-domix#readme"
+}
