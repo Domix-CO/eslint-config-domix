@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-domix",
-  "version": "0.1.0-0",
+  "version": "0.1.1",
   "description": "Domix's eslint config",
   "author": "Domix-CO",
   "main": "index.js",
