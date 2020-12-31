@@ -1,4 +1,4 @@
-# [Unreleased](https://github.com/Domix-CO/eslint-config-domix/compare/v0.1.0-0...66639a34306f834be9e6c00d08eb64455ec75e64) (2020-12-31)
+## [0.1.1](https://github.com/Domix-CO/eslint-config-domix/compare/v0.1.0-0...v0.1.1) (2020-12-31)
 
 
 ### docs
@@ -12,3 +12,6 @@
 
 
 # 0.1.0-0 (2020-12-31)
+
+
+

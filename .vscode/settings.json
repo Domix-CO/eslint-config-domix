@@ -1,6 +1,7 @@
 {
   "conventionalCommits.scopes": [
     "scripts",
-    "version"
+    "version",
+    "readme"
   ]
 }
